@@ -1,0 +1,42 @@
+body{
+    background-color:lightblue;
+}
+
+h1 {
+    text-align: center;
+    text-decoration:underline wavy  black;
+}
+em{
+    font-size:20px;
+    }
+.heading {
+    display:flex;
+    justify-content:space-around;
+    border:solid 5px black;
+    background-color:lightgray;
+}
+.rows{
+    display: flex;
+    justify-content:space-around;
+    border:solid 2px black;
+    background-color:white;
+    }
+#input{
+    display: flex;
+    justify-content: space-around;
+    }
+.button{
+    margin-top:50px;
+    display: flex;
+    justify-content: space-around;
+    }
+.p{
+    min-width: 150px;
+    }
+#p{
+    min-width: 100px;
+    }
+#button1, #button2{
+    width:100px;
+    height:25px;
+    }
